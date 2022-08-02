@@ -1,0 +1,24 @@
+body {
+    background: black;
+    font-family: Orbitron;
+}
+
+.todo{
+    align-items: center;
+    text-align: center;
+    margin: 10%;
+}
+.clock {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translateX(-50%) translateY(-50%);
+    color: #17D4FE;
+    font-size: 60px;
+    letter-spacing: 7px;
+}
+
+.titulo{
+    color: #17D4FE;
+    letter-spacing: 7px;
+}
